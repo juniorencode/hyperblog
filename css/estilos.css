@@ -2,5 +2,9 @@ body
 {
     color: peru;
     text-align: center;
-    font-family: Courier;
+    font-family: "Arial";
+}
+
+.cabezera {
+    color: aqua;
 }
